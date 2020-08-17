@@ -16,7 +16,7 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
-gem 'solidus', '~> 2.6.6'
+gem 'solidus', '~> 2.10.2'
 gem 'solidus_auth_devise'
 
 # Use CoffeeScript for .coffee assets and views
